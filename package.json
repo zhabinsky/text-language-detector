@@ -1,11 +1,8 @@
 {
   "name": "text-language-detector",
-  "version": "1.0.5",
-  "description": "Detect language of text.",
+  "version": "1.0.6",
+  "description": "Detect language of the text.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "detect",
     "language",
@@ -17,5 +14,9 @@
   "dependencies": {
     "retext": "^7.0.0",
     "retext-language": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhabinsky/text-language-detector"
   }
 }
