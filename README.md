@@ -1,9 +1,7 @@
 # Text Language Detector
 
-This package exists to give you language detection with the simplest API possible.  
-Just one function as export.  
-  
-Integrate language detection in your system with just one dependency.
+Integrate language detection in your system with just one dependency.  
+This package has only one function export. Simple and consise API.
 
 ## Install
 ```

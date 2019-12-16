@@ -1,6 +1,6 @@
 {
   "name": "text-language-detector",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Detect language of the text.",
   "main": "index.js",
   "keywords": [
