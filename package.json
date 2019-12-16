@@ -1,0 +1,21 @@
+{
+  "name": "text-language-detector",
+  "version": "1.0.5",
+  "description": "Detect language of text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "detect",
+    "language",
+    "translation",
+    "languages"
+  ],
+  "author": "Vladislav Zhabinsky <vladislavzhabinsky@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "retext": "^7.0.0",
+    "retext-language": "^1.0.1"
+  }
+}
